@@ -1,0 +1,28 @@
+{
+	"id": "0cfadc82-abba-4eff-ac94-50370150b4d9",
+	"name": "labi",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "https://qasandbox-production.up.railway.app",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "ship_id",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "baseUrl",
+			"value": "https://qasandbox-production.up.railway.app",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-11-14T00:20:58.660Z",
+	"_postman_exported_using": "Postman/12.36.3"
+}
